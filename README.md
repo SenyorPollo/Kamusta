@@ -1,2 +1,2 @@
 # Kamusta
-Kamusta bot for welcoming members on discord
+Kamusta bot for welcoming members on discord.
